@@ -44,3 +44,6 @@ Session 19: Jagged Arrays cont... String[] args in Main method , cheat sheet for
 
 Session 20: How to program in C# using Visual Studio IDE Contd.., Start up object, Project, Namespace, Class, Top Level statements in C# 9.0 onwards , Global Usings [⭐⭐⭐⭐⭐]
 
+Session 21: OOPs concepts , Fields, Methods, Static vs Non-Static methods, Value returning methods, Non-value returning methods, Methods with parameters, Method without Parameters [⭐⭐⭐⭐⭐]
+
+Session 22: 
